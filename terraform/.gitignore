@@ -1,0 +1,35 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Terraform variable files
+*.tfvars
+*.tfvars.json
+
+# Credentials / secrets
+.aws/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.ovpn
+
+# Application secrets
+secrets/
+credentials/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code local settings
+.vscode/

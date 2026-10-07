@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../aws-financial-ai-terraform"
+		},
+		{
+			"path": "../../minutes-analytics"
+		}
+	],
+	"settings": {}
+}
